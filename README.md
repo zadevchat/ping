@@ -1,4 +1,4 @@
-# Ping the ZADevChat
+# Ping the ZADevChat team
 
 This repository serves as our open inbox. [Ask us anything](https://github.com/zadevchat/ping/issues/new) -- or share your projects, news, or feedback.
 
